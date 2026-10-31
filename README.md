@@ -50,11 +50,3 @@ I am Salah Eddine Maarraf, a full stack web developer based in Casablanca, Moroc
 
 <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" alt="Backend" />
 
-
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&border_color=312E81&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&border_color=312E81&hide_border=false&langs_count=8" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=A78BFA&sideLabels=C9D
